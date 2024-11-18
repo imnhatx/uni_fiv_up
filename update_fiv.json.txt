@@ -1,7 +1,0 @@
-{
-  "latest_version": "3.0.5",
-  "status": true,
-  "plugin_name": "uni_fiv",
-  "download_url": "https://www.dropbox.com/scl/fi/ofyi5e7n4sx4an8do931c/uni_bfiv_v3.0.5_official.rbz?rlkey=szv3ty3ih91zojwm7xshgji0h&st=txejf71a&dl=1",
-  "messagebox": ""
-}
